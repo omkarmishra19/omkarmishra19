@@ -50,3 +50,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmishra19&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
+## 📊 Activity Graph
+
+[![Omkar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarmishra19&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Awards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omkarmishra19&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
