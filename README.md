@@ -21,4 +21,32 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/u/omkarmishra19/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-green)](https://www.geeksforgeeks.org/user/omkarmishnqi0/)
 
+## 🚀 Languages and Tools
+
+<p align="left"> 
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="AngularJS"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/ios-filled/48/laravel.png" alt="Laravel"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarmishra19&show_icons=true&theme=radical" alt="Omkar's GitHub stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmishra19&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+</p>
 
