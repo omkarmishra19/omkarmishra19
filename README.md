@@ -59,3 +59,8 @@
 ## 🏆 GitHub Awards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omkarmishra19&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ⚡ Calendar Snake
+
+![snake gif](https://github.com/omkarmishra19/omkarmishra19/blob/output/github-contribution-grid-snake.svg)
+
