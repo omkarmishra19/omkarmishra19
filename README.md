@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://omkarportfolio-omega.vercel.app/)]
 - 📫 How to reach me[My Linkedin] (https://www.linkedin.com/in/omkar-mishralpu/)
 - 😄 Fun fact: I love clean code and strong coffee ☕
+- 🎮 When I’m not coding, you’ll find me beating high scores in FPS games or binge-watching tech YouTubers 🎧💻🎯
 
 ### 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
