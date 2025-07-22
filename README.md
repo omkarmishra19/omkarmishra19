@@ -1,9 +1,9 @@
-<img width="1773" height="531" alt="Screenshot 2025-07-22 230232" src="https://github.com/user-attachments/assets/f1b450d8-d7d7-4726-ad3a-9a9b8921628e" />
-
+<img width="1766" height="529" alt="Screenshot 2025-07-22 230607" src="https://github.com/user-attachments/assets/8d1c142d-7ae2-43c1-8d6e-7ec000551d6b" />
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Omkar Mishra</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">
+A passionate full-stack developer from India</h3>
 
 - 🔭 I’m currently working on **MERN projects and Cloud-based apps**
 - 🌱 I’m currently learning **Data Structures and Algorithms**
