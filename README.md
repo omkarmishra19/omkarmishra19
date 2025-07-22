@@ -1,3 +1,6 @@
+<img width="1772" height="442" alt="Screenshot 2025-07-22 225420" src="https://github.com/user-attachments/assets/c23c8202-91b7-4007-8a66-384af6999542" />
+
+
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Omkar Mishra</h1>
